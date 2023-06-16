@@ -1,0 +1,108 @@
+body {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: black;
+    font-family: "Source snce Pro", sans-serif;
+    letter-spacing: 0.3px;
+    word-spacing: 0.1px;
+    background-color: #3a4bcb;
+
+}
+
+main {
+    align-self: center;
+    width: 85vw;
+    text-align: center;
+    background-color: #04a60a;
+    font-size: 18px;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    background-color: #cc2a3d;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #c2c226;
+
+
+}
+
+#title {
+    font-family: cursive;
+    color: #e933f3;
+    font-size: 60px;
+
+}
+
+#subtitle {
+    font-family: sans-serif;
+    color: #901139;
+    font-size: 25px;
+    padding-top: 3px;
+
+
+
+}
+
+#img {
+
+    width: 50%;
+    height: 50%;
+}
+
+.img-div {
+    padding: 3%;
+    position: relative;
+}
+
+.text {
+    position: relative;
+    color: #1fb11f;
+    text-align: justify;
+    padding: 20px;
+    word-spacing: 3px;
+}
+
+#tribute-info {
+    border-top: 1px solid rgb(160, 143, 143);
+}
+
+section {
+    font-size: 15px;
+    width: 80%;
+    margin: auto;
+    left: 50%;
+    text-align: justify;
+}
+
+.caption {
+    font-size: 19px;
+}
+
+h2 {
+    font-size: 18px;
+    text-align: center;
+    text-decoration-style: solid;
+    background-color: #3f21ac;
+    margin: 1rem;
+    color: rgb(0, 172, 101);
+    margin: 40px;
+    font-style: oblique;
+}
+
+h3 {
+    font-size: 15px;
+    margin: 1rem;
+    color: #2566a7;
+}
+
+.tab {
+    color: #17920c;
+}
